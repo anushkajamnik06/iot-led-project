@@ -1,5 +1,5 @@
 #define my_led1 7 // global declaration
-#define my_led2 -3 // global declaration
+#define my_led2 8 // global declaration
 
 void setup() { 
 serial.begin(9600);
